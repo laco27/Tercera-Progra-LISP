@@ -1,12 +1,12 @@
-Tercera-Progra-LISP
-===================
 Instituto Tecnológico de Costa Rica
-Administración de Tecnologías de Información
-Curso: Lenguajes de Programación
-
-Estudiantes:
-            Kevin Picado
-            Allan Rodriguez
-            Edgar Solorzano
+=
+Lenguajes de Programación
+=
+III Proyecto Programado LISP
+============================
+Integrantes:
+- Edgar Solórzano Pacheco
+- Kevin Picado Arias
+- Allan Rodríguez Guido
 
 Noviembre 2012
